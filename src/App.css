@@ -170,7 +170,7 @@ h2 span{
   color: rgb(255, 0, 144);
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 600px){
   .main{
       padding: 0;
       max-width: 100%;
